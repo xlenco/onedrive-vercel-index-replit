@@ -1,0 +1,1 @@
+const mySecret = process.env['REDIS_URL']
